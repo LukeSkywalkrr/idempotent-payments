@@ -1,0 +1,3 @@
+mode,requests,successful_responses,created_charges,replayed_responses,conflicts,elapsed_ms
+naive,50,50,50,0,0,879
+idempotency_key,50,50,1,49,0,80
